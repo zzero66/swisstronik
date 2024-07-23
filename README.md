@@ -83,13 +83,13 @@ npm run deploy
 npm run get-message
 ```
 
-### 8. Get Message
+### 8. Set Message
 
 ```bash
 npm run set-message
 ```
 
-### 9. Finsihed
+### 9. Finished
 
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
